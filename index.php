@@ -58,7 +58,7 @@
 
 
         
-<p>Más información</p>
+<p></p>
         <p class="lead">
             <a class="btn btn-primary btn-lg" href="productos.php" role="button">Ver inmuebles</a>
         </p>
@@ -71,5 +71,5 @@
 
   
 
-
+    <p>Creado por</p>
   <?php include("template/pie.php");?>
